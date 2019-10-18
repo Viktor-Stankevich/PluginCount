@@ -1,0 +1,67 @@
+@font-face {
+	font-family: 'Conv_Montserrat-Bold';
+	src: url('../fonts/Montserrat-Bold.eot');
+	src: local('☺'), url('../fonts/Montserrat-Bold.woff') format('woff'), url('../fonts/Montserrat-Bold.ttf') format('truetype'), url('../fonts/Montserrat-Bold.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+.countOne {
+    padding: 0px 7px 13px 15px;
+}
+
+
+
+
+
+
+
+.adult,
+.children,
+.baby {
+    margin: 7px 0;
+}
+
+.countOne > h3 {
+    font-family: 'Conv_Montserrat-Bold', Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 15px;
+
+    text-transform: uppercase;
+    color: #1F2041;
+}
+
+.clear,
+.aplly {
+    cursor: pointer;
+    padding: 0;
+  border: none;
+  font: inherit;
+  color: inherit;
+  background-color: transparent;
+}
+.clear {
+    margin: 13px 160px auto auto;
+
+    font-family: 'Conv_Montserrat-Bold', Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 15px;
+
+    text-transform: uppercase;
+    color: rgba(31, 32, 65, 0.5);
+}
+.aplly {
+
+    font-family: 'Conv_Montserrat-Bold', Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 15px;
+
+    text-transform: uppercase;
+    color: #BC9CFF;
+}
